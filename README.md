@@ -4,7 +4,7 @@
 ![Udacity Logo](img/udacity-2.png)
 
 https://www.udacity.com/start-mentoring
-> Get paid to mentor your peers and expand your knowledge. <br/>
+> Get paid to mentor your peers and expand your knowledge <br/><br/>
 > Make a difference by becoming a Udacity mentor
 
 Here is a website that lists all of my Udacity project/code reviews!
