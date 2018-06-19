@@ -9,7 +9,7 @@ App.controller('AppCtrl', ['$scope', function($scope){
   //
 
   $scope.reviewsList = {
-    "May 2018": { name: "May 2018", href: "reviews/may_2018.csv" }
+    "March 2018": { name: "March 2018", href: "reviews/march_2018.csv" }
   };
 
   $scope.currentReview = {};
